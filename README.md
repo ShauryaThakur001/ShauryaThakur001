@@ -7,22 +7,25 @@
 
 <br/>
 
-<h2 align="center">💫 About Me</h2>
+<!-- ABOUT ME + GIF -->
+<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
 
-<p align="center">
-👋 Hi, I’m Shaurya, a developer who enjoys building clean, scalable solutions.<br/>
-💻 I work with Flutter and love turning ideas into real products.<br/>
-🚀 Always learning, always improving.<br/>
-🔍 Professional Googler, part-time developer.<br/>
-🧠 I fix bugs by creating new ones.<br/>
-🐸 Frogs fear me, bugs fear me more.
-</p>
+## 💫 About Me
 
-<br/>
+👋 Hi, I’m **Shaurya**, a developer who enjoys building clean, scalable solutions.  
+💻 I primarily work with **Flutter**, turning ideas into real products.  
+🚀 Always learning, always improving.  
+🔍 Professional Googler, part-time developer.  
+🧠 I fix bugs by accidentally creating new ones.  
+🐸 Frogs fear me — bugs fear me more.
 
-<h2 align="center">🌐 Socials</h2>
+<br/><br/><br/>
 
-<p align="center">
+---
+
+## 🌐 Socials
+
+<p>
 <a href="https://instagram.com/Shaurya_001__">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
@@ -37,11 +40,11 @@
 </a>
 </p>
 
-<br/>
+---
 
-<h2 align="center">💻 Tech Stack</h2>
+## 💻 Tech Stack
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white"/>
@@ -58,18 +61,21 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
 </p>
 
-<br/>
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya0987&layout=compact&theme=highcontrast&hide_border=false"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Shaurya0987&theme=highcontrast&hide_border=false&count_private=true"/>
-<br/>
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=Shaurya0987&theme=highcontrast&hide_border=false"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya0987&layout=compact&theme=highcontrast&hide_border=false"/>
-</p>
 
-<br/>
+<br/><br/>
 
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://github.com/Shaurya0987/Shaurya0987/blob/output/github-snake-dark.svg"/>
 
