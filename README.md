@@ -1,4 +1,6 @@
-![MasterHead](https://images2.alphacoders.com/137/thumb-1920-1372963.png)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNhOGRjbWhtOXJxaG05Njh3bG82bjd5ODg1YTZtMjJ4MDdraDFwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%" alt="MasterHead" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shaurya Thakur</h1>
 <h3 align="center">A passionate Software Engineer from India 🇮🇳</h3>
