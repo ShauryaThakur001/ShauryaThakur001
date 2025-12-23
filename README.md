@@ -6,18 +6,27 @@
 <h3 align="center">A passionate Software Engineer from India 🇮🇳</h3>
 
 <br/>
+<br/>
+<br/>
 
 <!-- ABOUT ME + GIF -->
 <img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
 
 ## 💫 About Me
 
-👋 Hi, I’m **Shaurya**, a developer who enjoys building clean, scalable solutions.  
-💻 I primarily work with **Flutter**, turning ideas into real products.  
-🚀 Always learning, always improving.  
+👋 Shaurya | Flutter dev
+
+💻 Code. Debug. Repeat.
+
+🔍 Professional Googler
+
+🐸 May contain bugs
+
+🚀 Always learning, always improving.
+
 🔍 Professional Googler, part-time developer.  
+
 🧠 I fix bugs by accidentally creating new ones.  
-🐸 Frogs fear me — bugs fear me more.
 
 <br/><br/><br/>
 
