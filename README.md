@@ -2,8 +2,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNhOGRjbWhtOXJxaG05Njh3bG82bjd5ODg1YTZtMjJ4MDdraDFwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%" alt="MasterHead" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shaurya Thakur</h1>
-<h3 align="center">A passionate Software Engineer from India 🇮🇳</h3>
+<br/>
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Shaurya+Thakur;Himachal+Pradesh+University;Bug+Creator+%F0%9F%90%9B;Manali" />
+</p>
+
 
 <br/>
 
