@@ -116,21 +116,10 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7"/>
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,python,html,firebase,supabase,sqlite,figma,vercel,netlify,canva&perline=7" />
 </p>
+
+
 </div>
 
 ---
@@ -155,7 +144,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya0987&layout=compact&theme=highcontrast&hide_border=false"/><br/>
+  <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya0987&layout=compact&theme=highcontrast&hide_border=false"/><br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shaurya0987&theme=highcontrast&hide_border=false"/>
 </div>
 
