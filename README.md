@@ -7,7 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=Shaurya+Thakur;Himachal+Pradesh+University;Bug+Creator+%F0%9F%90%9B;Manali" />
 </p>
+<br/>
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Shaurya0987/Shaurya0987/blob/output/github-snake-dark.svg"/>
+</p>
 
 <br/>
 
@@ -150,14 +155,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaurya0987&theme=highcontrast&hide_border=false&count_private=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya0987&layout=compact&theme=highcontrast&hide_border=false"/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shaurya0987&theme=highcontrast&hide_border=false"/>
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Shaurya0987/Shaurya0987/blob/output/github-snake-dark.svg"/>
-</p>
