@@ -42,7 +42,7 @@
 <table border="0">
   <tr>
     <td width="350" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmZoamVkZmZsMGcwdXQzMXgydTNseGJvanl6Njc2dHIxazRtaXo3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif" width="350" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJveTc2N3ppdTN1aXExdXVncTBhY2lzNjdjandwcHVwY2ZsdGtrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="400" />
     </td>
     <td align="left">
       <h3>Building Seamless Experiences</h3>
@@ -86,7 +86,7 @@
 <table border="0">
   <tr>
     <td width="350" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWE0eGI4YzV0Mm9rMDB3NXZ0ZXNmeW5yZ28wbTAwOTk4dDY3eWdhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8UiYQWoZgafFJaN9hw/giphy.gif" width="350" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgweXUxYThqcG8xY25pZG4wYjA0eHA1amhrY205bGd6ZnNjdzJvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="350" />
     </td>
     <td align="left">
       <h3>Simplicity & Efficiency</h3>
