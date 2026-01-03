@@ -9,7 +9,7 @@
 </p>
 <br/>
 
-## 🐍 Contribution Sneakers 
+## 🐍 Contribution Speakers 
 <p align="center">
   <img src="https://github.com/Shaurya0987/Shaurya0987/blob/output/github-snake-dark.svg"/>
 </p>
