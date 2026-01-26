@@ -144,8 +144,13 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya0987&layout=compact&theme=highcontrast&hide_border=false"/><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shaurya0987&theme=highcontrast&hide_border=false"/>
+  <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaThakur001&layout=compact&theme=highcontrast&hide_border=false"/><br/><br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShauryaThakur001&theme=highcontrast&hide_border=false"/>
+</p>
+
+
+
 </div>
 
 <br/>
